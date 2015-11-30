@@ -1646,3 +1646,5 @@ var prettyPrint;
     });
   }
 })();
+
+module.exports = prettyPrint;
